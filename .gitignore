@@ -1,0 +1,40 @@
+# Allow-list: only what is named here is tracked. Anything else stays local.
+/*
+!/.gitignore
+!/LICENSE
+!/Makefile
+!/README.md
+!/MANIFEST.sha256
+!/pyproject.toml
+!/uv.lock
+!/src/
+!/tests/
+!/tools/
+!/paper/
+!/logs/
+!/evidence/
+
+# Paper: the source, the protocol, the current PDF and the frozen v0.3 text and PDF
+/paper/*
+!/paper/REPORT.md
+!/paper/V03-PROTOCOL.md
+!/paper/paper.tex
+!/paper/figures/
+!/paper/ToolEffectBench-v0.3.pdf
+!/paper/REPORT-v0.3.md
+!/paper/ToolEffectBench-v0.4.pdf
+
+# The scored runs behind the paper's tables, and the record of the declined attacker call
+/logs/*
+!/logs/baseline-*/
+!/logs/crafting-*/
+!/logs/v4-*/
+/evidence/*
+!/evidence/claude-*/
+!/evidence/v4-*/
+# First pass of the local stronger run; its finished samples are in the resumed log
+/logs/v4-qwen3.5-27b-v3-20261031T205459Z/
+
+__pycache__/
+*.pyc
+.DS_Store

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="190">
+<rect x="10" y="60" width="96" height="46" fill="#e8eef7"/>
+<text x="58" y="80" font-size="11" font-weight="bold" fill="#1f2a44" text-anchor="middle">Model</text>
+<text x="58" y="95" font-size="9" fill="#1f2a44" text-anchor="middle">task and prompt</text>
+<rect x="146" y="60" width="104" height="46" fill="#e8eef7"/>
+<text x="198" y="80" font-size="11" font-weight="bold" fill="#1f2a44" text-anchor="middle">Approver</text>
+<text x="198" y="95" font-size="9" fill="#1f2a44" text-anchor="middle">one-use grants</text>
+<rect x="290" y="60" width="118" height="46" fill="#e8eef7"/>
+<text x="349" y="80" font-size="11" font-weight="bold" fill="#1f2a44" text-anchor="middle">SQLite registry</text>
+<text x="349" y="95" font-size="9" fill="#1f2a44" text-anchor="middle">Docker, no network</text>
+<rect x="448" y="60" width="82" height="46" fill="#f3efe4"/>
+<text x="489" y="80" font-size="11" font-weight="bold" fill="#3d3420" text-anchor="middle">Snapshot</text>
+<text x="489" y="95" font-size="9" fill="#3d3420" text-anchor="middle">hash checked</text>
+<rect x="558" y="60" width="72" height="46" fill="#f3efe4"/>
+<text x="594" y="80" font-size="11" font-weight="bold" fill="#3d3420" text-anchor="middle">Oracle</text>
+<text x="594" y="95" font-size="9" fill="#3d3420" text-anchor="middle">read-only</text>
+<line x1="106" y1="76" x2="142" y2="76" stroke="#1f2a44" stroke-width="1.2"/>
+<polygon points="146,76 139,73 139,79" fill="#1f2a44"/>
+<line x1="250" y1="76" x2="286" y2="76" stroke="#1f2a44" stroke-width="1.2"/>
+<polygon points="290,76 283,73 283,79" fill="#1f2a44"/>
+<line x1="408" y1="83" x2="444" y2="83" stroke="#3d3420" stroke-width="1.2"/>
+<polygon points="448,83 441,80 441,86" fill="#3d3420"/>
+<line x1="530" y1="83" x2="554" y2="83" stroke="#3d3420" stroke-width="1.2"/>
+<polygon points="558,83 551,80 551,86" fill="#3d3420"/>
+<line x1="349" y1="106" x2="349" y2="128" stroke="#a23b2a" stroke-width="1.2"/>
+<line x1="349" y1="128" x2="58" y2="128" stroke="#a23b2a" stroke-width="1.2"/>
+<line x1="58" y1="128" x2="58" y2="110" stroke="#a23b2a" stroke-width="1.2"/>
+<polygon points="58,106 55,113 61,113" fill="#a23b2a"/>
+<text x="204" y="145" font-size="10" fill="#a23b2a" text-anchor="middle">tool results and errors carry the attack text</text>
+<line x1="198" y1="60" x2="198" y2="30" stroke="#5a6478" stroke-width="1" stroke-dasharray="3 3"/>
+<line x1="198" y1="30" x2="594" y2="30" stroke="#5a6478" stroke-width="1" stroke-dasharray="3 3"/>
+<line x1="594" y1="30" x2="594" y2="56" stroke="#5a6478" stroke-width="1" stroke-dasharray="3 3"/>
+<polygon points="594,60 591,53 597,53" fill="#5a6478"/>
+<text x="396" y="24" font-size="10" fill="#5a6478" text-anchor="middle">approval record gives attempted_forbidden</text>
+<text x="594" y="125" font-size="9" fill="#3d3420" text-anchor="middle">forbidden_effect</text>
+<text x="594" y="138" font-size="9" fill="#3d3420" text-anchor="middle">task_completed</text>
+<text x="594" y="151" font-size="9" fill="#3d3420" text-anchor="middle">unknown</text>
+</svg>

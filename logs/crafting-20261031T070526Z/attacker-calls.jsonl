@@ -1,0 +1,1 @@
+{"round": 1, "stop_reason": "content_filter", "usage": {"input_tokens": 4, "output_tokens": 0, "total_tokens": 555, "input_tokens_cache_write": 551, "input_tokens_cache_read": 0, "reasoning_tokens": null, "total_cost": null}, "completion": ""}

@@ -1,0 +1,15 @@
+title: "ToolEffectBench: State-Based Scoring of Tool-Using Agents"
+description: Scores tool-using agents from the persisted state of a sandboxed SQLite registry after a prompt-injected publication task, with explicit unknown handling.
+group: Safeguards
+contributors:
+  - YusefSyed
+version: "1-A"
+tags: ["Agent", "Safeguards"]
+tasks:
+  - name: tool_effect_bench
+    dataset_samples: 120
+  - name: tool_effect_bench_harness
+    dataset_samples: 13
+    kind: maintenance
+metadata:
+  sandbox: ["solver"]

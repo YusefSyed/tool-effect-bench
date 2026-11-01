@@ -1,7 +1,7 @@
 ---
 title: "ToolEffectBench: Scoring Prompt Injection on Tool-Using Agents from Persisted State"
-author: "Yusef Syed (University of Toronto) yusef.syed@mail.utoronto.ca"
-date: "Draft of 2026-10-31."
+author: "Yusef Syed (independent researcher; undergraduate, University of Toronto) yusef.syed@mail.utoronto.ca"
+date: "Version 0.3, 2026-10-31."
 categories: "cs.LG (primary); cross-list cs.CR, cs.AI"
 ---
 

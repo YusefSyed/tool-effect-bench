@@ -1,6 +1,8 @@
 # Allow-list: only what is named here is tracked. Anything else stays local.
 /*
 !/.gitignore
+!/.github/
+!/CHANGELOG.md
 !/LICENSE
 !/Makefile
 !/README.md

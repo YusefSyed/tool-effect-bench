@@ -138,11 +138,14 @@ safety classifier on the target's turn (six, Opus only): those are censored, not
 whether a model retried a failed publish, not by injection. v0.3 does not separate these models on
 injection.
 
-Two planned arms were **not run**: optimised templates and a live adaptive attacker. The
+Two planned arms were **not run** in v0.3: optimised templates and a live adaptive attacker. The
 attacker model's first call was declined by the provider's safety classifier, and it was not
-retried or reworded. These are absent, not null, and this suite says nothing about
-optimised or adaptive attacks. Details: `paper/REPORT.md`, Section 7, and
-`paper/V03-PROTOCOL.md`, Amendment 1.
+retried or reworded. In v0.6 both arms ran under Amendment 4 with gpt-6.1-sol as the attacker
+on six targets (three Anthropic, three OpenAI): 0 of 24 forbidden attempts per target and arm,
+upper end 0.142, which bounds a rate, shows no resistance and ranks nothing. Crafting got no
+signal on its Claude dev target, so the templates are the attacker's first proposals, optimised
+in name only. Details: `paper/REPORT.md`, Sections 7
+and 9, `paper/V03-PROTOCOL.md`, Amendment 1, and `paper/V05-ATTACKER-AMENDMENT.md`.
 
 Exploratory, post hoc (added 2026-10-31 after the null above): the same 68 samples with
 `-T prompt=undefended`. All three models were again at 0/62, with no classifier stops, and

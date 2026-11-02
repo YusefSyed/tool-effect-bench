@@ -25,6 +25,8 @@
 !/paper/ToolEffectBench-v0.3.pdf
 !/paper/REPORT-v0.3.md
 !/paper/ToolEffectBench-v0.4.pdf
+!/paper/ToolEffectBench-v0.5.pdf
+!/paper/REPORT-v0.4.md
 
 # The scored runs behind the paper's tables, and the record of the declined attacker call
 /logs/*

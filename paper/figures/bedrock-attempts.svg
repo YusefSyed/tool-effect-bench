@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="340">
+<line x1="187.1" y1="42.0" x2="187.1" y2="288.0" stroke="#c9ced8" stroke-width="0.6" stroke-dasharray="2 2"/>
+<line x1="244.3" y1="42.0" x2="244.3" y2="288.0" stroke="#c9ced8" stroke-width="0.6" stroke-dasharray="2 2"/>
+<line x1="301.4" y1="42.0" x2="301.4" y2="288.0" stroke="#c9ced8" stroke-width="0.6" stroke-dasharray="2 2"/>
+<line x1="130.0" y1="42.0" x2="130.0" y2="288.0" stroke="#5a6478" stroke-width="0.8"/>
+<line x1="447.1" y1="42.0" x2="447.1" y2="288.0" stroke="#c9ced8" stroke-width="0.6" stroke-dasharray="2 2"/>
+<line x1="504.3" y1="42.0" x2="504.3" y2="288.0" stroke="#c9ced8" stroke-width="0.6" stroke-dasharray="2 2"/>
+<line x1="561.4" y1="42.0" x2="561.4" y2="288.0" stroke="#c9ced8" stroke-width="0.6" stroke-dasharray="2 2"/>
+<line x1="390.0" y1="42.0" x2="390.0" y2="288.0" stroke="#5a6478" stroke-width="0.8"/>
+<rect x="130.0" y="60.0" width="47.6" height="8.0" fill="#1f2a44"/>
+<rect x="130.0" y="84.0" width="7.9" height="8.0" fill="#1f2a44"/>
+<rect x="130.0" y="108.0" width="16.3" height="8.0" fill="#1f2a44"/>
+<rect x="130.0" y="171.0" width="11.9" height="8.0" fill="#9fb3d1"/>
+<rect x="130.0" y="180.0" width="79.4" height="8.0" fill="#1f2a44"/>
+<rect x="130.0" y="204.0" width="39.7" height="8.0" fill="#1f2a44"/>
+<rect x="130.0" y="228.0" width="15.9" height="8.0" fill="#1f2a44"/>
+<rect x="390.0" y="51.0" width="107.1" height="8.0" fill="#9fb3d1"/>
+<rect x="390.0" y="60.0" width="153.8" height="8.0" fill="#1f2a44"/>
+<rect x="390.0" y="75.0" width="29.8" height="8.0" fill="#9fb3d1"/>
+<rect x="390.0" y="84.0" width="33.0" height="8.0" fill="#1f2a44"/>
+<rect x="390.0" y="132.0" width="11.0" height="8.0" fill="#1f2a44"/>
+<rect x="390.0" y="147.0" width="41.7" height="8.0" fill="#9fb3d1"/>
+<rect x="390.0" y="156.0" width="11.0" height="8.0" fill="#1f2a44"/>
+<rect x="390.0" y="171.0" width="125.0" height="8.0" fill="#9fb3d1"/>
+<rect x="390.0" y="180.0" width="175.8" height="8.0" fill="#1f2a44"/>
+<rect x="390.0" y="195.0" width="35.7" height="8.0" fill="#9fb3d1"/>
+<rect x="390.0" y="204.0" width="87.9" height="8.0" fill="#1f2a44"/>
+<rect x="390.0" y="228.0" width="22.9" height="8.0" fill="#1f2a44"/>
+<rect x="390.0" y="243.0" width="14.3" height="8.0" fill="#9fb3d1"/>
+<rect x="390.0" y="252.0" width="27.2" height="8.0" fill="#1f2a44"/>
+<rect x="390.0" y="276.0" width="35.7" height="8.0" fill="#1f2a44"/>
+<rect x="10.0" y="323.0" width="10.0" height="8.0" fill="#9fb3d1"/>
+<rect x="100.0" y="323.0" width="10.0" height="8.0" fill="#1f2a44"/>
+<text x="130.0" y="16.0" font-size="10" font-weight="bold" fill="#1f2a44" text-anchor="start">A. Note and result-field arms</text>
+<text x="130.0" y="29.0" font-size="9" fill="#5a6478" text-anchor="start">artifact_note and result_field, Table 16</text>
+<text x="130.0" y="300.0" font-size="8" fill="#5a6478" text-anchor="middle">0.0</text>
+<text x="187.1" y="300.0" font-size="8" fill="#5a6478" text-anchor="middle">0.2</text>
+<text x="244.3" y="300.0" font-size="8" fill="#5a6478" text-anchor="middle">0.4</text>
+<text x="301.4" y="300.0" font-size="8" fill="#5a6478" text-anchor="middle">0.6</text>
+<text x="215.7" y="313.0" font-size="9" fill="#5a6478" text-anchor="middle">attempts / delivered samples</text>
+<text x="133.0" y="58.0" font-size="8" fill="#1f2a44" text-anchor="start">0/48</text>
+<text x="180.6" y="67.0" font-size="8" fill="#1f2a44" text-anchor="start">6/36</text>
+<text x="133.0" y="82.0" font-size="8" fill="#1f2a44" text-anchor="start">0/48</text>
+<text x="140.9" y="91.0" font-size="8" fill="#1f2a44" text-anchor="start">1/36</text>
+<text x="133.0" y="106.0" font-size="8" fill="#1f2a44" text-anchor="start">0/48</text>
+<text x="149.3" y="115.0" font-size="8" fill="#1f2a44" text-anchor="start">2/35</text>
+<text x="133.0" y="130.0" font-size="8" fill="#1f2a44" text-anchor="start">0/47</text>
+<text x="133.0" y="139.0" font-size="8" fill="#1f2a44" text-anchor="start">0/34</text>
+<text x="133.0" y="154.0" font-size="8" fill="#1f2a44" text-anchor="start">0/48</text>
+<text x="133.0" y="163.0" font-size="8" fill="#1f2a44" text-anchor="start">0/36</text>
+<text x="144.9" y="178.0" font-size="8" fill="#1f2a44" text-anchor="start">2/48</text>
+<text x="212.4" y="187.0" font-size="8" fill="#1f2a44" text-anchor="start">10/36</text>
+<text x="133.0" y="202.0" font-size="8" fill="#1f2a44" text-anchor="start">0/48</text>
+<text x="172.7" y="211.0" font-size="8" fill="#1f2a44" text-anchor="start">5/36</text>
+<text x="133.0" y="226.0" font-size="8" fill="#1f2a44" text-anchor="start">0/48</text>
+<text x="148.9" y="235.0" font-size="8" fill="#1f2a44" text-anchor="start">2/36</text>
+<text x="133.0" y="250.0" font-size="8" fill="#1f2a44" text-anchor="start">0/24</text>
+<text x="133.0" y="259.0" font-size="8" fill="#1f2a44" text-anchor="start">0/23</text>
+<text x="133.0" y="274.0" font-size="8" fill="#1f2a44" text-anchor="start">0/8</text>
+<text x="133.0" y="283.0" font-size="8" fill="#1f2a44" text-anchor="start">0/5</text>
+<text x="390.0" y="16.0" font-size="10" font-weight="bold" fill="#1f2a44" text-anchor="start">B. Error arms, text delivered</text>
+<text x="390.0" y="29.0" font-size="9" fill="#5a6478" text-anchor="start">tool_error and multi_step rerun, Table 18</text>
+<text x="390.0" y="300.0" font-size="8" fill="#5a6478" text-anchor="middle">0.0</text>
+<text x="447.1" y="300.0" font-size="8" fill="#5a6478" text-anchor="middle">0.2</text>
+<text x="504.3" y="300.0" font-size="8" fill="#5a6478" text-anchor="middle">0.4</text>
+<text x="561.4" y="300.0" font-size="8" fill="#5a6478" text-anchor="middle">0.6</text>
+<text x="475.7" y="313.0" font-size="9" fill="#5a6478" text-anchor="middle">attempts / delivered samples</text>
+<text x="500.1" y="58.0" font-size="8" fill="#1f2a44" text-anchor="start">18/48</text>
+<text x="546.8" y="67.0" font-size="8" fill="#1f2a44" text-anchor="start">14/26</text>
+<text x="422.8" y="82.0" font-size="8" fill="#1f2a44" text-anchor="start">5/48</text>
+<text x="426.0" y="91.0" font-size="8" fill="#1f2a44" text-anchor="start">3/26</text>
+<text x="393.0" y="106.0" font-size="8" fill="#1f2a44" text-anchor="start">0/47</text>
+<text x="393.0" y="115.0" font-size="8" fill="#1f2a44" text-anchor="start">0/26</text>
+<text x="393.0" y="130.0" font-size="8" fill="#1f2a44" text-anchor="start">0/47</text>
+<text x="404.0" y="139.0" font-size="8" fill="#1f2a44" text-anchor="start">1/26</text>
+<text x="434.7" y="154.0" font-size="8" fill="#1f2a44" text-anchor="start">7/48</text>
+<text x="404.0" y="163.0" font-size="8" fill="#1f2a44" text-anchor="start">1/26</text>
+<text x="518.0" y="178.0" font-size="8" fill="#1f2a44" text-anchor="start">21/48</text>
+<text x="568.8" y="187.0" font-size="8" fill="#1f2a44" text-anchor="start">16/26</text>
+<text x="428.7" y="202.0" font-size="8" fill="#1f2a44" text-anchor="start">6/48</text>
+<text x="480.9" y="211.0" font-size="8" fill="#1f2a44" text-anchor="start">8/26</text>
+<text x="393.0" y="226.0" font-size="8" fill="#1f2a44" text-anchor="start">0/47</text>
+<text x="415.9" y="235.0" font-size="8" fill="#1f2a44" text-anchor="start">2/25</text>
+<text x="407.3" y="250.0" font-size="8" fill="#1f2a44" text-anchor="start">2/40</text>
+<text x="420.2" y="259.0" font-size="8" fill="#1f2a44" text-anchor="start">2/21</text>
+<text x="393.0" y="274.0" font-size="8" fill="#1f2a44" text-anchor="start">0/9</text>
+<text x="428.7" y="283.0" font-size="8" fill="#1f2a44" text-anchor="start">1/8</text>
+<text x="122.0" y="61.0" font-size="10" fill="#1f2a44" text-anchor="end">qwen3-next-80b-a3b</text>
+<text x="122.0" y="85.0" font-size="10" fill="#1f2a44" text-anchor="end">deepseek.v3.2</text>
+<text x="122.0" y="109.0" font-size="10" fill="#1f2a44" text-anchor="end">mistral-large-3-675b</text>
+<text x="122.0" y="133.0" font-size="10" fill="#1f2a44" text-anchor="end">gpt-oss-120b</text>
+<text x="122.0" y="157.0" font-size="10" fill="#1f2a44" text-anchor="end">nova-pro</text>
+<text x="122.0" y="181.0" font-size="10" fill="#1f2a44" text-anchor="end">qwen3-32b</text>
+<text x="122.0" y="205.0" font-size="10" fill="#1f2a44" text-anchor="end">qwen3-coder-30b-a3b</text>
+<text x="122.0" y="229.0" font-size="10" fill="#1f2a44" text-anchor="end">ministral-3-14b</text>
+<text x="122.0" y="253.0" font-size="10" fill="#1f2a44" text-anchor="end">llama-3.3-70b</text>
+<text x="122.0" y="277.0" font-size="10" fill="#1f2a44" text-anchor="end">llama-3.1-8b</text>
+<text x="24.0" y="330.0" font-size="9" fill="#1f2a44" text-anchor="start">base suite</text>
+<text x="114.0" y="330.0" font-size="9" fill="#1f2a44" text-anchor="start">stronger suite</text>
+</svg>

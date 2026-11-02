@@ -4,6 +4,49 @@ All dates are 2026. The package version recorded in every published log
 header is the one the harness carried at run time (0.1.0 for all logs through
 v0.4); the paper and tag versions below are the report versions.
 
+## v0.7 (Nov 2)
+
+- New Section 10, "What transcript readings would have reported": four
+  transcript readings (proposal, final state, final report, language-model
+  judge) compared with the state oracle over all 5,628 scored sample runs of
+  the published logs, with exact intervals; the transient-harm split (10 of
+  the 232 forbidden publications were revoked later in the sample); the agent's
+  final report denies 13 of the 232; a classification of the 4,544 zero samples
+  (978 never received the attack text); a detection-limit table; the four
+  readings on the 13 scripted fixtures. Two judges ran under Amendment 5
+  (`paper/V07-READINGS-AMENDMENT.md`, sealed and timestamped by FreeTSA before
+  the first call, with four addenda, all post hoc): claude-opus-4-8 agreed with
+  the oracle on 449 of its 450 sampled transcripts and left one undecided;
+  claude-fable-5-1 refused 320 of 495 calls, all 232
+  harmful transcripts among them. Judge spend $13.31 at list price.
+- New files: `tools/transcript_readings.py`, `tools/detection_limits.py` and
+  their tests (133 tests pass on a clean checkout of this version);
+  `logs/readings-judge-*/` (verdicts, prompt, sample sets, the scripts as run,
+  the fixture-judge files); `paper/V07-READINGS-AMENDMENT-tsa/` (FreeTSA tokens
+  and certificates); the fixture replay
+  log `logs/fixture-replay-20261102T050450Z/` with its 13 snapshots under
+  `evidence/`; `logs/readings-hand-audit-20261102/`. The fixture replay log
+  and the judges' fixture sample sets had scratch paths replaced by the
+  published relative paths; nothing else changed.
+- Paper: Limitations, Data and Conclusion renumbered 11 to 13; tables 23
+  (readings against the oracle) and 25 (file digests of Section 10) are new; the
+  Section 9 digests become Table 24 and the appendix tables 26 to 28; the
+  abstract leads with the readings result and keeps
+  the bound, no-resistance and no-ranking caveats (1,823 characters); to make
+  room it drops the task parenthesis, the oracle's field list, the
+  107-against-28 attempt count of the Bedrock rerun, the six censored Opus turns
+  and two qualifying clauses, all still in Sections 6 to 8; Section 1
+  gains one contribution bullet; Section 2 gains a paragraph on the closest
+  recent measurements with references [11] to [19]; Section 12.4 lists the
+  files and commands. Section 6.3 points to Sections 10.6 and 11 for
+  independence; Section 12.1 gains one sentence on the v0.7 files; the
+  Conclusion gains one sentence on the readings; the AI-use declaration names
+  the two judges and the model-session hand audit. The v0.6 source is frozen as
+  `paper/REPORT-v0.6.md`.
+- Docs: `docs/RUN-ON-YOUR-MODEL.md` (verified from a fresh clone on a GitHub
+  runner), `docs/REGISTER-CONTRIBUTION.md`, `REGISTER-ISSUE-DRAFT-v2.md`; README
+  gains a quickstart and the register status.
+
 ## v0.6 (Nov 2)
 
 - The optimised and adaptive attack arms, listed as not run since v0.3, ran

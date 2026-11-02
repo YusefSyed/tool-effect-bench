@@ -1,0 +1,100 @@
+{
+ "seed": null,
+ "strata": {
+  "F_fixture": 13
+ },
+ "items": [
+  {
+   "stratum": "F_fixture",
+   "run": "fixture-replay",
+   "id": "approved-persisted",
+   "epoch": 1,
+   "path": "logs/fixture-replay-20261102T050450Z/2026-11-02T05-04-50-00-00_tool-effect-bench-harness_96Ch24htU4jbZTJ2jHUmeB.eval"
+  },
+  {
+   "stratum": "F_fixture",
+   "run": "fixture-replay",
+   "id": "committed-error",
+   "epoch": 1,
+   "path": "logs/fixture-replay-20261102T050450Z/2026-11-02T05-04-50-00-00_tool-effect-bench-harness_96Ch24htU4jbZTJ2jHUmeB.eval"
+  },
+  {
+   "stratum": "F_fixture",
+   "run": "fixture-replay",
+   "id": "conflicting-reuse",
+   "epoch": 1,
+   "path": "logs/fixture-replay-20261102T050450Z/2026-11-02T05-04-50-00-00_tool-effect-bench-harness_96Ch24htU4jbZTJ2jHUmeB.eval"
+  },
+  {
+   "stratum": "F_fixture",
+   "run": "fixture-replay",
+   "id": "denied-absent",
+   "epoch": 1,
+   "path": "logs/fixture-replay-20261102T050450Z/2026-11-02T05-04-50-00-00_tool-effect-bench-harness_96Ch24htU4jbZTJ2jHUmeB.eval"
+  },
+  {
+   "stratum": "F_fixture",
+   "run": "fixture-replay",
+   "id": "duplicate-request",
+   "epoch": 1,
+   "path": "logs/fixture-replay-20261102T050450Z/2026-11-02T05-04-50-00-00_tool-effect-bench-harness_96Ch24htU4jbZTJ2jHUmeB.eval"
+  },
+  {
+   "stratum": "F_fixture",
+   "run": "fixture-replay",
+   "id": "invalid-identifier",
+   "epoch": 1,
+   "path": "logs/fixture-replay-20261102T050450Z/2026-11-02T05-04-50-00-00_tool-effect-bench-harness_96Ch24htU4jbZTJ2jHUmeB.eval"
+  },
+  {
+   "stratum": "F_fixture",
+   "run": "fixture-replay",
+   "id": "modified-target",
+   "epoch": 1,
+   "path": "logs/fixture-replay-20261102T050450Z/2026-11-02T05-04-50-00-00_tool-effect-bench-harness_96Ch24htU4jbZTJ2jHUmeB.eval"
+  },
+  {
+   "stratum": "F_fixture",
+   "run": "fixture-replay",
+   "id": "precommit-error",
+   "epoch": 1,
+   "path": "logs/fixture-replay-20261102T050450Z/2026-11-02T05-04-50-00-00_tool-effect-bench-harness_96Ch24htU4jbZTJ2jHUmeB.eval"
+  },
+  {
+   "stratum": "F_fixture",
+   "run": "fixture-replay",
+   "id": "retry-after-commit",
+   "epoch": 1,
+   "path": "logs/fixture-replay-20261102T050450Z/2026-11-02T05-04-50-00-00_tool-effect-bench-harness_96Ch24htU4jbZTJ2jHUmeB.eval"
+  },
+  {
+   "stratum": "F_fixture",
+   "run": "fixture-replay",
+   "id": "tampered-model-text",
+   "epoch": 1,
+   "path": "logs/fixture-replay-20261102T050450Z/2026-11-02T05-04-50-00-00_tool-effect-bench-harness_96Ch24htU4jbZTJ2jHUmeB.eval"
+  },
+  {
+   "stratum": "F_fixture",
+   "run": "fixture-replay",
+   "id": "tampered-tool-text",
+   "epoch": 1,
+   "path": "logs/fixture-replay-20261102T050450Z/2026-11-02T05-04-50-00-00_tool-effect-bench-harness_96Ch24htU4jbZTJ2jHUmeB.eval"
+  },
+  {
+   "stratum": "F_fixture",
+   "run": "fixture-replay",
+   "id": "transient-revoked",
+   "epoch": 1,
+   "path": "logs/fixture-replay-20261102T050450Z/2026-11-02T05-04-50-00-00_tool-effect-bench-harness_96Ch24htU4jbZTJ2jHUmeB.eval"
+  },
+  {
+   "stratum": "F_fixture",
+   "run": "fixture-replay",
+   "id": "unexposed-write",
+   "epoch": 1,
+   "path": "logs/fixture-replay-20261102T050450Z/2026-11-02T05-04-50-00-00_tool-effect-bench-harness_96Ch24htU4jbZTJ2jHUmeB.eval"
+  }
+ ],
+ "repeat_positions": []
+}

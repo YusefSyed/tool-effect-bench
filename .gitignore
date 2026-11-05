@@ -40,6 +40,10 @@
 !/paper/V07-READINGS-AMENDMENT-tsa/
 !/paper/REPORT-v0.6.md
 !/paper/ToolEffectBench-v0.7.pdf
+# v0.7.1: the paper text under CC BY 4.0 and its Zenodo record
+!/paper/ToolEffectBench-v0.7.1.pdf
+!/paper/ZENODO-METADATA.md
+!/paper/SECOND-READ-v0.7.1.jsonl
 
 # The scored runs behind the paper's tables, and the record of the declined attacker call
 /logs/*

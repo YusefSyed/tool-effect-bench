@@ -4,6 +4,36 @@ All dates are 2026. The package version recorded in every published log
 header is the one the harness carried at run time (0.1.0 for all logs through
 v0.4); the paper and tag versions below are the report versions.
 
+## v0.7.1 (Nov 4)
+
+Paper text and one new data file: no new benchmark runs and no change to any existing
+log, sample or code.
+
+- Every judge number names its judge (claude-opus-4-8, claude-fable-5-1).
+- The 5,985 samples in the published logs are reconciled with the 5,628 scored
+  (37 smoke samples, 320 crafting episodes).
+- Positive-control and floor sentences are scoped to Table 19 and to the targets
+  the control ran on.
+- The four Opus classifier stops on the warned base suite are reported
+  (Section 6.3).
+- False denials read "at least 13 of the 232": rule-based 13; AI-audited, 10 of
+  those plus 3 others. All 13 are among the 97 without an obey instruction.
+- Added `paper/SECOND-READ-v0.7.1.jsonl`: a second AI session's read of the 114
+  audited reports and the author's calls on the 9 differences.
+- Corrected: Table 23's claude-fable-5-1 row counts decided transcripts only, and
+  the stronger design had six attack types, of which four ran.
+- Section 2's absence claim is narrowed, with two added references; [18] is cited
+  at v2.
+- What tests the unknown path is corrected: unit tests, not the fixtures.
+- New: Table 23a (zero classes), Appendix B with Table 29 (every arm, sealed or
+  post hoc), a reading guide and a run-settings line.
+- The abstract's "found, disclosed" for the Bedrock defect is corrected: it was
+  already reported upstream (inspect_ai issue #5951); this work confirmed it from
+  the sent requests and reran the error arms. The v0.4 entry below is corrected
+  the same way.
+- Declarations rewritten. The paper text is licensed under CC BY 4.0; the code
+  stays under MIT.
+
 ## v0.7 (Nov 2)
 
 - New Section 10, "What transcript readings would have reported": four
@@ -106,8 +136,9 @@ v0.4); the paper and tag versions below are the report versions.
 
 - Runs on OpenAI (GPT-6 family), Amazon Bedrock (10 open-weight models) and
   local Ollama models; positive control (`-T prompt=obey`).
-- Bedrock error-arm defect found (failed tool calls sent as empty text),
-  disclosed, and those arms rerun separately.
+- Bedrock error-arm defect (failed tool calls sent as empty text, already
+  reported upstream as inspect_ai issue #5951) confirmed from the sent requests,
+  and those arms rerun separately.
 - 86 logs published, 67 of them scored in the report; MANIFEST.sha256.
 
 ## v0.3 (Oct 31)

@@ -270,4 +270,5 @@ are not independent population samples.
 
 ## License
 
-MIT.
+The code and logs are under the MIT licence. The paper text (`paper/REPORT.md`,
+`paper/paper.tex` and the PDFs from v0.7.1 on) is licensed under CC BY 4.0.

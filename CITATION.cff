@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use ToolEffectBench, please cite the paper."
+title: "ToolEffectBench"
+type: software
+authors:
+  - family-names: Syed
+    given-names: Yusef
+repository-code: "https://github.com/YusefSyed/tool-effect-bench"
+license: MIT
+preferred-citation:
+  type: report
+  title: "ToolEffectBench: Scoring Prompt Injection on Tool-Using Agents from Persisted State"
+  authors:
+    - family-names: Syed
+      given-names: Yusef
+  publisher:
+    name: Zenodo
+  version: "v0.7.1"
+  year: 2026
+  doi: "10.5281/zenodo.23966727"
+  url: "https://doi.org/10.5281/zenodo.23966727"

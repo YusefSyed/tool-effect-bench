@@ -10,7 +10,7 @@ the container's pinned Python base image on the first build.
 ```bash
 git clone https://github.com/YusefSyed/tool-effect-bench.git
 cd tool-effect-bench
-git checkout v0.7
+git checkout v0.7.1
 uv sync --frozen --group baselines
 ```
 

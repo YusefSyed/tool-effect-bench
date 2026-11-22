@@ -68,7 +68,7 @@ The two lint checks not met at `v0.6` are informational and do not block a submi
    Haiku plus Sonnet 5.5 is about $1.02. Before uploading, replace local paths and usernames in
    the logs, as Section 11.1 of the report did for the earlier logs.
 4. **Yusef:** open the submission issue from his own account (he must have a commit in this
-   repository; he does). Text in `REGISTER-ISSUE-DRAFT-v2.md`.
+   repository; he does).
 5. **Yusef:** upload the two logs at https://logfile-upload.generality.workers.dev/ and confirm on
    the bot's PR, in his own words; inspect_evals asks that replies to maintainers be written by
    the contributor, not by an AI.
